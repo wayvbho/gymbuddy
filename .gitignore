@@ -1,0 +1,28 @@
+# ========== FRONTEND ==========
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+frontend/build/
+frontend/dist/
+frontend/.DS_Store
+frontend/.eslintcache
+frontend/.cache/
+frontend/npm-debug.log*
+
+# ========== BACKEND ==========
+backend/node_modules/
+backend/.env
+backend/.env.*
+backend/.DS_Store
+backend/npm-debug.log*
+backend/uploads/
+backend/coverage/
+
+# ========== GENERAL ==========
+# OS and IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
